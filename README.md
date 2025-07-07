@@ -1,32 +1,50 @@
 # 🗂️ CRUD Method TaskManager
 
-A sleek and interactive task scheduling system built using **Next.js**, **React**, **Tailwind CSS**, and **Lucide** icons.
+A sleek, interactive, and minimalistic **task scheduling system** built with **Next.js**, **React**, **Tailwind CSS**, and **Lucide** icons. Designed for simplicity and productivity, TaskMaster Lite helps you manage, update, and organize daily tasks with ease.
+
+🔗 **Live Demo**: [crud-method-taskmanager.vercel.app](https://crud-method-taskmanager.vercel.app/)
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Next.js** – React-based framework for server-side rendering and performance.
-- **React** – Component-based UI development.
-- **Tailwind CSS** – Utility-first CSS framework for custom styling.
-- **Lucide** – Beautiful, open-source icons for modern UIs.
+- **Next.js** – React framework with server-side rendering and routing
+- **React** – Frontend UI library
+- **Tailwind CSS** – Utility-first CSS framework for styling
+- **Lucide** – Modern, customizable icon set
 
 ---
 
 ## ✨ Features
 
-- ✅ Create, Read, Update, Delete (CRUD) tasks.
-- 🧠 Organized and minimal task scheduler interface.
-- 🌓 Responsive design with modern UI elements.
-- 🖱️ Intuitive interaction for managing and editing tasks.
+- ✅ Create, read, update, and delete (CRUD) tasks
+- 🧠 Filter by All, Pending, and Completed
+- 📆 See timestamps of task creation
+- 💾 Username-based login (sessionless)
+- 🖌️ Editable tasks with a clean modal interface
+- 💡 Fully responsive and minimal design
 
 ---
 
 ## 📸 Screenshots
 
-> _Coming soon_ – Add screenshots here to show the UI in action.
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
+
+### 🗂️ Dashboard (With Tasks)
+![Dashboard](./screenshots/dashboard.png)
+
+### ➕ Add Task Modal
+![Add Task Modal](./screenshots/add-task.png)
+
+> _Note: Add these screenshot files to a `screenshots/` folder in your project root with matching names._
 
 ---
+
+## 📦 Getting Started
+
+### 1. Clone the repository
+```bash
 
 ## 📦 Getting Started
 
